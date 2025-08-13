@@ -1,0 +1,5 @@
+galaxy_info:
+  role_name: timezone-change
+  author: Dimooon
+  description: Test Ansible + changing timezone
+dependencies: []
